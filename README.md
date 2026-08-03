@@ -91,9 +91,6 @@ This project deliberately documents what it does *not* claim to do:
 
 Built as a digital forensics coursework project. The goal was to explore what a *minimal but genuinely trustworthy* acquisition tool looks like — and along the way, to catch and fix a real integrity bug in an early SSH-based acquisition mode that could have silently reported unverified data as "verified." That experience shaped the project's current emphasis on independently-computed, source-side hashing for every verification claim it makes.
 
-## 📄 License
-
-MIT — see [LICENSE](LICENSE).
 
 ## 🙋 Author
 
