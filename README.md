@@ -97,4 +97,4 @@ MIT — see [LICENSE](LICENSE).
 
 ## 🙋 Author
 
-Built by Mehmet Emin — [[LinkedIn](https://www.linkedin.com/in/mehmeteminyeter/)](#) · [Portfolio](#)
+Built by Mehmet Emin — [[LinkedIn](https://www.linkedin.com/in/mehmeteminyeter/)]
