@@ -1,3 +1,4 @@
+
 # 🛡️ BitGuard
 
 **Hash-verified remote forensic imaging tool with chunk-level self-healing and automatic chain-of-custody reporting.**
@@ -95,3 +96,4 @@ Built as a digital forensics coursework project. The goal was to explore what a 
 ## 🙋 Author
 
 Built by Mehmet Emin — [[LinkedIn](https://www.linkedin.com/in/mehmeteminyeter/)]
+Zehra Nur Kolsuz - [[LinkedIn](https://www.linkedin.com/in/zehrakolsuz)]
