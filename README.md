@@ -95,7 +95,7 @@ Built as a digital forensics coursework project. The goal was to explore what a 
 
 ## 🙋 Author
 
-Built by Mehmet Emin — [[LinkedIn](https://www.linkedin.com/in/mehmeteminyeter/)]
+Built by Mehmet Emin Yeter — [[LinkedIn](https://www.linkedin.com/in/mehmeteminyeter/)]
 
 Zehra Nur Kolsuz - [[LinkedIn](https://www.linkedin.com/in/zehrakolsuz)]
 
